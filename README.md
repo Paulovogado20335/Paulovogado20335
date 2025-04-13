@@ -1,5 +1,5 @@
  # 💫 About Me:
-🔭 Sou estudante de front-end.<br>👯 Em busca da primeira oportunidade.<br>
+🔭 Desenvolvedor Salesforce.<br>👯 Em busca de novos desafios.<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulo-vogado) 
 
